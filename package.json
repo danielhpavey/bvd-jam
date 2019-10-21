@@ -1,0 +1,14 @@
+{
+  "name": "gridsome-big-vegan-directory",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-airtable": "^0.1.0",
+    "gridsome": "^0.6.0",
+    "moment": "^2.24.0"
+  }
+}
